@@ -25,7 +25,7 @@ Tested on Linux only. May work on Windows, idk.
 
 3. It is recommended to run the script in its own folder, for saving conversations.
 
-3b. If you are not using NixOS you can delete the shell.nix file. 
+3b. If you are not using NixOS you can ignore the shell.nix file. 
 
 4. You will need to edit the chili.py script before running:
 (a) Add your API key/s.
@@ -36,4 +36,4 @@ Tested on Linux only. May work on Windows, idk.
 
 6. Run with ./chili.py
 
-7. For NixOS users: the script needs to run in a nix-shell so that the requests function cannot alter the nix-store. To run the script on NixOS > cd wherever_you_put_it > nix-shell > ./chili.py
+7. For NixOS users: the script needs to run in a nix-shell so that the requests function cannot alter the nix-store. To run the script on NixOS you need to put the chili.py and the nix.shell files in the same folder. Then cd to that folder, run nix-shell in the terminal. Then ./chili.py
