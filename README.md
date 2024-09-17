@@ -1,6 +1,6 @@
 
 ![pie3](https://github.com/user-attachments/assets/2e94f23a-5e32-4321-95d2-146a4773251f)
-
+ 
 **WELCOME TO CHILI.PY**
 A way to access your LLMs from the terminal (requires API keys).
 
