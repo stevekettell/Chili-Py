@@ -1,8 +1,11 @@
-![pie3](https://github.com/user-attachments/assets/cc64c4ac-22c3-4c00-aa79-481eda0bb362)
 
-Access your LLMs from the terminal with Chili.Py (requires API keys).
+![pie3](https://github.com/user-attachments/assets/2e94f23a-5e32-4321-95d2-146a4773251f)
+
+**WELCOME TO CHILI.PY**
+A way to access your LLMs from the terminal (requires API keys).
 
 **FEATURES**
+
 * Works with OpenRouter and OpenAI keys
 * Select from multiple models and profiles (all editable)
 * Switch between models during chats (-m).
@@ -13,6 +16,7 @@ Access your LLMs from the terminal with Chili.Py (requires API keys).
 
 
 **INSTRUCTIONS FOR USE**
+
 Tested on Linux only. May work on Windows, idk.
 
 1. Depends on python3 (install as per the instructions for your distro).
